@@ -1,0 +1,6 @@
+1.pydoc raw_input在Windows系统中会报错。
+查询后改为“python -m pydoc raw_input”可用。
+2.略
+3.pydoc是python自带的一个文档生成工具，使用pydoc可以很方便的查看类和方法结构。
+详见“http://www.cnblogs.com/meitian/p/6704488.html”。
+4.略
